@@ -15,3 +15,6 @@ This repo contains papers and notebooks for my studies.
 - https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
 - https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=0&networkShape=7,2&seed=0.79129&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false
 - https://ruder.io/optimizing-gradient-descent/
+- http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+- http://www.deeplearningbook.org/
+- https://leonardoaraujosantos.gitbook.io/artificial-inteligence/
